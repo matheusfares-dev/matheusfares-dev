@@ -1,7 +1,7 @@
 ### Hi there 👋, i'm Matheus Fares 🌱
 
 - 🔭 I’m currently working on ??? (i'm F/A hahaha) 
-- 🌱 I’m currently learning Java <3
+- 🌱 I’m currently learning Java and Front-End <3
 - 😄 Pronouns: he/him
 
 <div align="center">
