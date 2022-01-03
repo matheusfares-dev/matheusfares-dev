@@ -1,6 +1,7 @@
 ### Hi there 👋, i'm Matheus Fares 🌱
 
 - 🔭 I’m currently working on ??? (i'm F/A hahaha) 
+- 🏢 Student at Universidade Federal do Ceará (UFC) - Software and Hardware Engineering
 - 🌱 I’m currently learning Java and Front-End <3
 - 😄 Pronouns: he/him
 
