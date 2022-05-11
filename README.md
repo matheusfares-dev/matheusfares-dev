@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on @aiqfome - grupo magalu
 - 🏢 Student at Universidade Federal do Ceará (UFC) - Software and Hardware Engineering
-- 🌱 I’m currently learning Java and Front-End <3
+- 🌱 I’m currently learning PHP Laravel <3
 - 😄 Pronouns: he/him
 
 <div align="center">
